@@ -3,6 +3,11 @@ import "@fortawesome/fontawesome-free/css/all.min.css"
 import "./globals.css"
 import BootstrapClient from "./BootstrapClient"
 
+export const metadata = {
+  title: "EYE VISION",
+  description: "Advanced Eye Care and Vision Correction Center",
+}
+
 export default function RootLayout({
   children,
 }: {
