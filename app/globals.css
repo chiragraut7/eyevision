@@ -8,7 +8,7 @@
   --glass-white: rgba(255, 255, 255, 0.95);
   --bs-primary-rgb: 13, 202, 240;
 }
-
+ 
 html {
   scroll-behavior: smooth;
 }
